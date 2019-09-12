@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Apply Linters" description="Run Linters" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/TVision-Insights/upload-client/bin/apply_linters.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/TVision-Insights/upload-client/bin" />
+    </exec>
+  </tool>
+</toolSet>

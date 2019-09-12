@@ -1,0 +1,165 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="/usr/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages/tvision_pygraph-0.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file:///usr/local/lib/python3.6/dist-packages/PyAudio-0.2.11-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1247971763" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (kevin_thomas_coding_exercise)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="$USER_HOME$/interviews/Kevin Thomas/KevinThomasCodingExercise/kevin_thomas_coding_exercise/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/interviews/Kevin Thomas/KevinThomasCodingExercise/kevin_thomas_coding_exercise/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/65717736" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/interviews/Kevin Thomas/KevinThomasCodingExercise/kevin_thomas_coding_exercise" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (acs)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/Documents/TVision-Insights/acs/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/acs/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/acs/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/acs/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-900085210" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TVision-Insights/acs" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (otto)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/Documents/TVision-Insights/otto/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/otto/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1097957659" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TVision-Insights/otto" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mimir)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/Documents/TVision-Insights/mimir/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/mimir/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-487077681" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TVision-Insights/mimir" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (huginn)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/Documents/TVision-Insights/huginn/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Documents/TVision-Insights/huginn/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-943281036" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Documents/TVision-Insights/huginn" />
+    </jdk>
+  </component>
+</application>
