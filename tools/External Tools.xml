@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Documents/TVision-Insights/upload-client/bin/apply_linters.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/TVision-Insights/upload-client/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/dev/Documents/TVision-Insights/upload-client/bin" />
     </exec>
   </tool>
 </toolSet>
