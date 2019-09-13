@@ -1,4 +1,7 @@
 <keymap version="1" name="Good Keymap" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Console.TableResult.EditValue">
@@ -7,15 +10,14 @@
   </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="ContextHelp" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Django.RunManageTaskAction" />
   <action id="EditSource" />
-  <action id="EditorActions">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -46,6 +48,7 @@
     <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.EditSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
