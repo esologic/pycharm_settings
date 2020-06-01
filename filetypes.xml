@@ -8,6 +8,7 @@
       <mapping pattern="pq" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
+      <mapping ext="service" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
