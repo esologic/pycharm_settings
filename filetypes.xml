@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="pq" type="PLAIN_TEXT" />
       <mapping pattern="service_template" type="PLAIN_TEXT" />
+      <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
       <mapping pattern="start_tunnel_script_template" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
