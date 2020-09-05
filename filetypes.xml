@@ -5,12 +5,12 @@
       <mapping ext="ino" type="C++" />
       <mapping pattern="pq" type="PLAIN_TEXT" />
       <mapping pattern="service_template" type="PLAIN_TEXT" />
-      <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
       <mapping pattern="start_tunnel_script_template" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="pre_compile" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
