@@ -15,6 +15,7 @@
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="service" type="Shell Script" />
     </extensionMap>
   </component>
