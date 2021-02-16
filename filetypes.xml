@@ -14,6 +14,7 @@
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="server_access_jim_scano_1" type="PLAIN_TEXT" />
+      <mapping ext="deb" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
