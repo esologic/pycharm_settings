@@ -14,6 +14,7 @@
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern="k" type="PLAIN_TEXT" />
       <mapping pattern="pre_compile" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
