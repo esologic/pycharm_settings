@@ -9,6 +9,11 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="495239cb-970f-4d64-9455-d0c4d324f3fa" name="gpu@192.168.1.162:2222" url="http:///">
+        <fileTransfer host="192.168.1.162" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
