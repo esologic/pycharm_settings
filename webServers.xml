@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="85641425-fba2-4b1c-a18d-9c4780d9f78b" name="TVision Dev. NUC Plain Ubuntu">
+      <webServer id="85641425-fba2-4b1c-a18d-9c4780d9f78b" name="Dev. NUC 0810 TVision QA">
         <fileTransfer rootFolder="/home/test" accessType="SFTP" host="192.168.1.158" port="22" sshConfigId="58bf25cc-038b-4440-8218-72cbcd5d8e82" sshConfig="test@192.168.1.158:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
