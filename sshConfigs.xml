@@ -5,7 +5,7 @@
       <sshConfig authType="PASSWORD" host="192.168.1.202" id="c8c72f4d-cc32-4752-a994-b05829d7bd5b" port="2222" customName="GPU Develop Container (Training Host)" nameFormat="CUSTOM">
         <option name="customName" value="GPU Develop Container (Training Host)" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.162" id="38ab2076-5fb9-4d5d-b10b-c295e50c6d9f" port="2222" customName="GPU Develop Container (Develop Host)" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.162" id="38ab2076-5fb9-4d5d-b10b-c295e50c6d9f" port="2222" customName="GPU Develop Container (Develop Host)" nameFormat="CUSTOM" username="gpu">
         <option name="customName" value="GPU Develop Container (Develop Host)" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.202" id="c6e64f59-9107-4679-a865-437c3732096c" port="2222" customName="GPU Develop Container (Training Host)" nameFormat="CUSTOM" username="gpu">
