@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping ext="ino" type="C++" />
       <mapping ext="tvi-avsc" type="JSON" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="k" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
       <mapping pattern="pq" type="PLAIN_TEXT" />
       <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
