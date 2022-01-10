@@ -1,22 +1,20 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="ino" type="C++" />
-      <mapping ext="tvi-avsc" type="JSON" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
-      <mapping pattern="k" type="PLAIN_TEXT" />
-      <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
       <mapping pattern="pq" type="PLAIN_TEXT" />
-      <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
-      <mapping pattern="pre_compile" type="PLAIN_TEXT" />
-      <mapping pattern="start_tunnel_script_template" type="PLAIN_TEXT" />
-      <mapping pattern="client_access_jim_scano_1" type="PLAIN_TEXT" />
-      <mapping pattern="service_template" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
-      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="server_access_jim_scano_1" type="PLAIN_TEXT" />
+      <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="client_access_jim_scano_1" type="PLAIN_TEXT" />
+      <mapping pattern="start_tunnel_script_template" type="PLAIN_TEXT" />
+      <mapping pattern="service_template" type="PLAIN_TEXT" />
+      <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
+      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern="k" type="PLAIN_TEXT" />
+      <mapping pattern="pre_compile" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping ext="_88hv7k5" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
@@ -26,6 +24,7 @@
       <mapping ext="service" type="Shell Script" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping ext="ino" type="C++" />
     </extensionMap>
   </component>
 </application>
