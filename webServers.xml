@@ -2,9 +2,9 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d3e8e2f7-f186-4b01-98c8-763c0569ac83" name="Dev Cont. Dev VM" url="http://192.168.1.162">
-        <fileTransfer accessType="SFTP" host="192.168.1.162" port="2222" sshConfigId="38ab2076-5fb9-4d5d-b10b-c295e50c6d9f" sshConfig="GPU Develop Container (Develop Host)">
+        <fileTransfer accessType="SFTP" host="192.168.1.112" port="2222" sshConfigId="2ca94103-0341-4f37-816a-4cacf8f7b53f" sshConfig="gpu@192.168.1.112:2222 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
