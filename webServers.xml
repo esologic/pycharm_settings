@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="99a93d3e-c68f-4ebe-a83e-375e041359c9" name="Dev Cont. Train VM" url="http://192.168.1.162">
-        <fileTransfer accessType="SFTP" sshConfigId="9b34633b-4f73-4b20-b987-09b46c69c66a" sshConfig="gpu@192.168.1.115:49155">
+        <fileTransfer accessType="SFTP" sshConfigId="9b34633b-4f73-4b20-b987-09b46c69c66a" sshConfig="gpu@192.168.1.115:49156">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
