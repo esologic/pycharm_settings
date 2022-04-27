@@ -8,8 +8,12 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="489c6e03-75fe-469e-8a5c-207ceb550e7c" name="test@192.168.1.158:22 password">
-        <fileTransfer accessType="SFTP" host="192.168.1.158" port="22" sshConfigId="38ab2076-5fb9-4d5d-b10b-c295e50c6d9f" sshConfig="test@192.168.1.158:22 password" />
+      <webServer id="99a93d3e-c68f-4ebe-a83e-375e041359c9" name="Dev Cont. Train VM" url="http://192.168.1.162">
+        <fileTransfer accessType="SFTP" sshConfigId="9b34633b-4f73-4b20-b987-09b46c69c66a" sshConfig="gpu@192.168.1.115:49156">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
     </option>
   </component>
