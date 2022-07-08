@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="home_menu" type="AUTO_DETECTED" />
       <mapping pattern="output" type="AUTO_DETECTED" />
+      <mapping pattern="media_session_hulu_todo" type="AUTO_DETECTED" />
       <mapping pattern="media_session_prime_video" type="AUTO_DETECTED" />
       <mapping ext="ino" type="C++" />
       <mapping pattern="pq" type="PLAIN_TEXT" />
