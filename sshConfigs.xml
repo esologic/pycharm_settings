@@ -6,6 +6,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="gance-live.local" id="9656102f-897b-4a3a-8c99-ab1186eac672" port="2222" customName="gpu@gance-live.local:2222" nameFormat="CUSTOM" username="gpu">
         <option name="customName" value="gpu@gance-live.local:2222" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="gance-live.local" id="adb45a35-fe8c-4369-bc3c-2bbb043409e6" port="22" customName="devon@gance-live.local" nameFormat="CUSTOM" username="devon">
+        <option name="customName" value="devon@gance-live.local" />
+      </sshConfig>
     </configs>
   </component>
 </application>
