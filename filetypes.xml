@@ -7,8 +7,8 @@
       <mapping pattern="media_session_hulu_todo" type="AUTO_DETECTED" />
       <mapping pattern="media_session_prime_video" type="AUTO_DETECTED" />
       <mapping ext="ino" type="C++" />
-      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="k" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="wpa_supplicant" type="PLAIN_TEXT" />
       <mapping pattern="pq" type="PLAIN_TEXT" />
       <mapping pattern="raspios_default_sshd_config" type="PLAIN_TEXT" />
