@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="asdf" type="AUTO_DETECTED" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
       <mapping ext="typed" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
