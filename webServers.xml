@@ -25,8 +25,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="5e5e3781-3406-4646-9cea-489d7df953f0" name="test@tvision-dev-nuc-plain-ubuntu.local:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="tvision-dev-nuc-plain-ubuntu.local" port="22" sshConfigId="3be85d3e-11d3-4a27-aae3-6340cc76770f" sshConfig="test@tvision-dev-nuc-plain-ubuntu.local:22 agent" authAgent="true" />
+      <webServer id="088ef36e-1398-4c71-b8ce-0ec82d9f621d" name="test@tvision-dev-nuc-plain-ubuntu.local:22 password">
+        <fileTransfer accessType="SFTP" host="tvision-dev-nuc-plain-ubuntu.local" port="22" sshConfigId="3be85d3e-11d3-4a27-aae3-6340cc76770f" sshConfig="test@tvision-dev-nuc-plain-ubuntu.local:22 password" />
       </webServer>
     </option>
   </component>

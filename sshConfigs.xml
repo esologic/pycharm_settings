@@ -9,7 +9,7 @@
       <sshConfig authType="PASSWORD" host="gance-live.local" id="adb45a35-fe8c-4369-bc3c-2bbb043409e6" port="22" customName="devon@gance-live.local" nameFormat="CUSTOM" username="devon">
         <option name="customName" value="devon@gance-live.local" />
       </sshConfig>
-      <sshConfig authType="OPEN_SSH" host="tvision-dev-nuc-plain-ubuntu.local" id="3be85d3e-11d3-4a27-aae3-6340cc76770f" port="22" nameFormat="DESCRIPTIVE" username="test" />
+      <sshConfig authType="PASSWORD" host="tvision-dev-nuc-plain-ubuntu.local" id="3be85d3e-11d3-4a27-aae3-6340cc76770f" port="22" nameFormat="DESCRIPTIVE" username="test" />
     </configs>
   </component>
 </application>
