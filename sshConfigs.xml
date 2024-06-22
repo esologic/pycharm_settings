@@ -10,6 +10,7 @@
         <option name="customName" value="devon@gance-live.local" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="tvision-dev-nuc-plain-ubuntu.local" id="3be85d3e-11d3-4a27-aae3-6340cc76770f" port="22" nameFormat="DESCRIPTIVE" username="test" />
+      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ACCEPT_NEW&quot;}}" host="192.168.1.177" id="5db334d0-9438-4cf4-bca3-5243ed0a76de" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="pi" />
     </configs>
   </component>
 </application>
